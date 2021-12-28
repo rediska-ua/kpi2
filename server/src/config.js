@@ -11,4 +11,4 @@ class Config {
     }
 }
 exports.Config = Config;
-exports.config = new Config("postgres", "localhost", "Dormitory", "Maksim2012", 5432);
+exports.config = new Config("postgres", "localhost",5432);
